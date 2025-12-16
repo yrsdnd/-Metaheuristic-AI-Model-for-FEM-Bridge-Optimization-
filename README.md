@@ -104,12 +104,6 @@ After 5000+ iterations, the optimizer converges to efficient truss configuration
 | Max Displacement | <0.01 m |
 | Weight | ~16,000 N |
 
-## Team
-
-- Hüseyin Tunç - Lead Developer
-- [Team Member 2] - [Role]
-- [Team Member 3] - [Role]
-- [Team Member 4] - [Role]
 
 *Developed as part of ME 362 Finite Element Methods course at Bilkent University*
 
